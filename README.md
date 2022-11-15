@@ -1,3 +1,3 @@
 # Demo
 
-For creating and exploring github commands.
+For creating and exploring github commands!
